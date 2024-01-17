@@ -1,3 +1,7 @@
+# Created by Yun-Fei "Takua" Liu
+# Modified and optimized for sharing on GitHub on 2024.01.17
+# https://yunfeitakualiu.com/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
